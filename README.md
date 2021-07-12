@@ -1,4 +1,4 @@
-I built group chat application where the user should register/log in to interact or to see the previous history
+I built group chat application where the user should register/log in to interact 
 
 All the messages are encrypted and stored in the database. Used MERN stack, socket io to create chat application.
 
